@@ -1,0 +1,113 @@
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+    color: white;
+    padding: 1px 20px 1px 5px;
+}
+#header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgb(0, 0, 0, 0.1);
+}
+#span {
+    color: #40196d;
+    font-size: 18px;
+    font-family: didot;
+    font-weight: bold;
+}
+#logo {
+    margin-left: 20px;
+}
+#btn1 {
+    height: 35px;
+    color: #40196d;
+    border-radius: 7px;
+    border: 1px solid #40196d;
+    background-color: #eff0fe;
+    font-size: 11px;
+    width: 110px;
+}
+#main {
+    margin-top: 7vh;
+    background-color: #eff0fe;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 453px;
+    margin-left: 15px;
+    box-shadow: 0 0 20px rgba( 0, 0, 0, 0.2);
+}
+#link2 {
+    text-decoration: none;
+    color: rgb(3, 171, 3);
+}
+#link1 {
+    padding-left: 40px;
+    font-size: 12px;
+}
+#reset {
+    text-decoration: none;
+    color: #40196d;
+    font-weight: bold;
+    font-size: 14px;
+}
+#btn2 {
+    height: 35px;
+    color:#eff0fe;
+    border-radius: 7px;
+    border: 1px solid #40196d;
+    background-color: #9f8bb6;
+    font-size: 11px;
+    width: 110px;
+}
+#form {
+    background-color: white;
+    margin-top: 16px;
+    width: 450px;
+    margin-left: 15px;
+    box-shadow: 0 0 20px rgba( 0, 0, 0, 0.1);
+}
+form {
+    padding-left: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#h4 {
+    color: #40196d;
+    font-size: 18px;
+    font-weight: bold;
+}
+#paragraph1 {
+    margin-top: 20px;
+    font-size: 13px;
+    color: grey;
+}
+#paragraph2 {
+    margin-top: 30px;
+    font-size: 13px;
+    color: grey;
+}
+#epf {
+    margin-top: 30px;
+    font-size: 14px;
+    color: grey;
+}
+#strong {
+    font-weight: bold;
+    text-decoration: none;
+    color: #40196d;
+}
+input {
+    height: 30px;
+    width: 300px;
+    padding-left: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba( 0, 0, 0, 0.3);
+}
